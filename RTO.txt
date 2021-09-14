@@ -1,0 +1,18 @@
+{
+    "Account" : "Arpit",
+    "appName" : "RTO",
+    "packageName" : "",
+    "adPriority": "Admob",
+    "showAdmob" : "1",
+    "showFb" : "1",
+    "G_appId": "ca-app-pub-3940256099942544~3347511713",
+    "G_banner": "ca-app-pub-3940256099942544/6300978111",
+    "G_int": "ca-app-pub-3940256099942544/1033173712",
+    "G_native": "ca-app-pub-3940256099942544/2247696110",
+    "G_rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "F_banner": "IMG_16_9_APP_INSTALL#773107710073139_773114800072430",
+    "F_int": "IMG_16_9_APP_INSTALL#773107710073139_773114506739126",
+    "F_rewarded": "IMG_16_9_APP_INSTALL#773107710073139_773115540072356",
+    "F_nativeBanner": "IMG_16_9_APP_INSTALL#954339178709943_954339755376552",
+    "created_on": "2021-02-24 06:46:17"
+  }
