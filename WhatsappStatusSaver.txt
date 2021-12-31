@@ -1,10 +1,9 @@
 {
-    "Account" : "Test",
-    "appName" : "WinZO Games",
+    "appName" : "WhatsApp Status Saver",
     "packageName" : "",
     "adPriority": "Admob",
     "showAdmob" : "1",
-    "showFb" : "0",
+    "showFb" : "1",
     "G_appId": "ca-app-pub-3940256099942544~3347511713",
     "G_banner": "ca-app-pub-3940256099942544/6300978111",
     "G_int": "ca-app-pub-3940256099942544/1033173712",
