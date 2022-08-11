@@ -3,7 +3,7 @@
     "appName" : "InstaSever",
     "packageName" : "",
     "showApplovin" : "0",
-    "showAdmob" : "0",
+    "showAdmob" : "1",
     "showFb" : "0",
     "InteractionCount" : 3,
     "AL_banner" : "c1586ad841a06c22",
