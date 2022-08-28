@@ -1,0 +1,23 @@
+{
+    "Account" : "Dharmi",
+    "appName" : "InstaSever",
+    "packageName" : "",
+    "showApplovin" : "1",
+    "showAdmob" : "1",
+    "showFb" : "0",
+    "InteractionCount" : 1,
+    "AL_banner" : "c1586ad841a06c22",
+    "AL_int" : "d9a62d3d22828eee",
+    "AL_rewarded" : "1882960987cccae9",
+    "AL_native" : "c1586ad841a06c22",
+    "G_appId": "ca-app-pub-3940256099942544~3347511713",
+    "G_banner": "ca-app-pub-3940256099942544/6300978111",
+    "G_int": "ca-app-pub-3940256099942544/1033173712",
+    "G_native": "ca-app-pub-3940256099942544/2247696110",
+    "G_rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "F_banner": "311812740487936_311813473821196",
+    "F_int": "311812740487936_311812933821250",
+    "F_rewarded": "IMG_16_9_APP_INSTALL#773107710073139_773115540072356",
+    "F_nativeBanner": "311812740487936_311813473821196",
+    "created_on": "2021-02-24 06:46:17"
+  }
