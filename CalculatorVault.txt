@@ -3,7 +3,7 @@
     "appName" : "Calculator Vault",
     "packageName" : "",
     "adPriority": "Admob",
-    "showAdmob" : "1",
+    "showAdmob" : "0",
     "showFb" : "0",
     "G_appId": "ca-app-pub-6822455961648595~4395850205",
     "G_banner": "ca-app-pub-6822455961648595/4341322964",
